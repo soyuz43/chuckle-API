@@ -22,7 +22,7 @@ The `database.json` follows a logical and structured format, aimed at being both
 
 - **Chuckle Checklist App**: To see the full Chuckle Checklist application in action, visit the [Chuckle Checklist repository on GitHub](https://github.com/soyuz43/chuckle-checklist).
 
-This project is licensed under the MIT License. For more details, see the LICENSE file in the repository.
+
 
 ## Contact
 
